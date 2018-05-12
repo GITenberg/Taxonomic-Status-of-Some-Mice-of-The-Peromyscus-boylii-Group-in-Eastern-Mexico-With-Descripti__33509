@@ -1,0 +1,33 @@
+_repo: Taxonomic-Status-of-Some-Mice-of-The-Peromyscus-boylii-Group-in-Eastern-Mexico-With-Descripti__33509
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alvarez, Ticul
+    aliases:
+    - Solórzano, Ticul Alvarez
+    - Solorzano, Ticul Alvarez
+    birthdate: 1935
+    deathdate: 2001
+    gutenberg_agent_id: '32403'
+    url: http://www.gutenberg.org/2009/agents/32403
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Mammals
+- Animal
+gutenberg_issued: '2010-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33509'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Mice'
+title: Taxonomic Status of Some Mice of The Peromyscus boylii Group in Eastern Mexico,
+  With Description of a New Subspecies
+url: http://www.gutenberg.org/ebooks/33509
